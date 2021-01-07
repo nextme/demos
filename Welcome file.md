@@ -29,6 +29,15 @@
 1 - Ошибка по умолчанию , без дополнительной характеристики.
 2 - Заданная в аргументах запуска биржа не совместима с библиотекой ссхт
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTU0Njk0OCwtNDUyMDAxMjE1LC05Mz
-YyNzg0NjddfQ==
+eyJkaXNjdXNzaW9ucyI6eyJGY0FwakVHVEVFNGRUNnAxIjp7In
+N0YXJ0Ijo2MTQsImVuZCI6NjI4LCJ0ZXh0Ijoi0LTQvtC/0L7Q
+u9C90LjRgtC10LvRjNC90L7QuSJ9fSwiY29tbWVudHMiOnsidm
+8zb1RDaThJdTBEc2ZocSI6eyJkaXNjdXNzaW9uSWQiOiJGY0Fw
+akVHVEVFNGRUNnAxIiwic3ViIjoiZ2g6NjAxODAwIiwidGV4dC
+I6ItC10LPQvdC9IiwiY3JlYXRlZCI6MTYxMDA1MzAwNDY4OX0s
+IlUzaE1WYmtjaFJWV0lSUDUiOnsiZGlzY3Vzc2lvbklkIjoiRm
+NBcGpFR1RFRTRkVDZwMSIsInN1YiI6ImdoOjYwMTgwMCIsInRl
+eHQiOiLRi9GL0YsiLCJjcmVhdGVkIjoxNjEwMDUzMDEwNzA4fX
+0sImhpc3RvcnkiOlstNzg3MTg3NzQsLTQ1MjAwMTIxNSwtOTM2
+Mjc4NDY3XX0=
 -->
