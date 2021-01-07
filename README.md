@@ -22,10 +22,10 @@
   
 
 #  Запуск
-
+Перед первым запуском нужно установить необходимые пакеты командой `npm i`. После успешной установки 
   
 
-**node runbot.js <конфиг>.js <биржа>  <fiat/crypto/test>  [DEBUG]**
+`node runbot.js <конфиг>.js <биржа>  <fiat/crypto/test>  [DEBUG]`
 
 < > - обязательные параметры
 
@@ -49,5 +49,5 @@
 
 2 - Заданная в аргументах запуска биржа не совместима с библиотекой ссхт
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxOTI0ODU5XX0=
+eyJoaXN0b3J5IjpbLTIxMzQ2MjY5NDUsMjgxOTI0ODU5XX0=
 -->
